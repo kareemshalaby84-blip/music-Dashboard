@@ -1,0 +1,61 @@
+geo_id,country,region,city
+1,Greece,Attica,Athens
+2,Greece,Central Macedonia,Thessaloniki
+3,Greece,Western Greece,Patras
+4,Greece,Crete,Heraklion
+5,Greece,Crete,Chania
+6,Greece,Thessaly,Volos
+7,Greece,Thessaly,Larissa
+8,Greece,Epirus,Ioannina
+9,Greece,Eastern Macedonia and Thrace,Kavala
+10,Greece,Eastern Macedonia and Thrace,Alexandroupoli
+11,Greece,South Aegean,Rhodes
+12,Greece,North Aegean,Mytilene
+13,Greece,Ionian Islands,Corfu
+14,Greece,Peloponnese,Kalamata
+15,Greece,Attica,Piraeus
+16,Italy,Lazio,Rome
+17,Italy,Lombardy,Milan
+18,Italy,Piedmont,Turin
+19,Italy,Veneto,Venice
+20,Italy,Tuscany,Florence
+21,Italy,Emilia-Romagna,Bologna
+22,Italy,Campania,Naples
+23,Italy,Sicily,Palermo
+24,Spain,Community of Madrid,Madrid
+25,Spain,Catalonia,Barcelona
+26,Spain,Andalusia,Seville
+27,Spain,Valencian Community,Valencia
+28,Spain,Basque Country,Bilbao
+29,Spain,Galicia,Santiago de Compostela
+30,France,Île-de-France,Paris
+31,France,Auvergne-Rhône-Alpes,Lyon
+32,France,Provence-Alpes-Côte d’Azur,Marseille
+33,France,Occitanie,Toulouse
+34,France,Grand Est,Strasbourg
+35,France,Hauts-de-France,Lille
+36,Germany,Berlin,Berlin
+37,Germany,Bavaria,Munich
+38,Germany,North Rhine-Westphalia,Cologne
+39,Germany,Hesse,Frankfurt
+40,Germany,Hamburg,Hamburg
+41,Germany,Baden-Württemberg,Stuttgart
+42,UK,Greater London,London
+43,UK,Greater Manchester,Manchester
+44,UK,West Midlands,Birmingham
+45,UK,Scotland,Glasgow
+46,UK,Wales,Cardiff
+47,UK,Northern Ireland,Belfast
+48,Netherlands,North Holland,Amsterdam
+49,Netherlands,South Holland,Rotterdam
+50,Netherlands,Utrecht,Utrecht
+51,Sweden,Stockholm County,Stockholm
+52,Sweden,Skåne County,Malmö
+53,Norway,Oslo,Oslo
+54,Norway,Vestland,Bergen
+55,USA,California,Los Angeles
+56,USA,New York,New York
+57,USA,Illinois,Chicago
+58,USA,Texas,Houston
+59,Canada,Ontario,Toronto
+60,Canada,Quebec,Montreal

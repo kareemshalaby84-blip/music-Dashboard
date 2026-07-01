@@ -1,0 +1,21 @@
+device_id,device_type,os,app_version
+1,Mobile,Android,5.5.0
+2,Mobile,iOS,5.2.3
+3,Mobile,iOS,5.3.2
+4,Mobile,iOS,5.3.1
+5,Desktop,Linux,4.5.1
+6,Desktop,macOS,3.3.2
+7,Desktop,Windows,5.2.0
+8,Desktop,macOS,4.5.3
+9,Tablet,Android,3.2.3
+10,Tablet,iPadOS,3.3.2
+11,Tablet,Android,5.3.3
+12,Tablet,Android,3.1.2
+13,Smart Speaker,Alexa OS,3.2.2
+14,Smart Speaker,Alexa OS,5.3.2
+15,Smart Speaker,Sonos,4.3.2
+16,Smart Speaker,Google Cast,5.0.2
+17,Web,ChromeOS,5.0.2
+18,Web,Firefox,5.5.2
+19,Web,OperaGX,4.5.0
+20,Web,ChromeOS,4.1.0
